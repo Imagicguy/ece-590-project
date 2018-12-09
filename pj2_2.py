@@ -3,9 +3,7 @@ Math 590
 Project 2
 Fall 2018
 
-Partner 1: Haili Wu   hw210
-Partner 2: Yunhe Wang   yw314
-Date: 2018/11/15
+
 """
 
 # Import math.
